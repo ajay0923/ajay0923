@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay Kollaparthi
 
-<!--
-**ajay0923/ajay0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | Java • Spring Boot • PostgreSQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Passionate Backend Developer with strong fundamentals in Java and Spring Boot
+* Experienced in building secure and scalable applications
+* Interested in system design, performance optimization, and backend architecture
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:**
+Java, SQL, JavaScript, Python
+
+**Backend:**
+Spring Boot, Spring Security, Hibernate (JPA), REST APIs
+
+**Frontend:**
+React.js
+
+**Database:**
+PostgreSQL, MySQL
+
+**Tools:**
+Git, Postman
+
+---
+
+## 🔥 Featured Project
+
+### 🏦 Full Stack Banking System
+
+* Role-based system (Admin, Manager, Staff, User)
+* Secure transactions with concurrency handling
+* JWT Authentication & Authorization
+* REST API architecture (Controller-Service-Repository)
+* Optimized database using indexing
+
+---
+
+## 📊 What I Focus On
+
+* Building scalable backend systems
+* Writing clean and maintainable code
+* Solving real-world problems
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: http://linkedin.com/in/ajay-kollaparthi-738ba1253
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving backend challenges and optimizing system performance 🚀
+
+---
